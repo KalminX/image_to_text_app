@@ -4,6 +4,11 @@ A simple Flask web application that extracts text from images using [Tesseract O
 
 ---
 
+## Deployed App
+Try it out: [Live Demo](https://imagetotextapp-production.up.railway.app/)
+
+---
+
 ## 🚀 Features
 
 - 📤 Upload an image and extract text instantly
