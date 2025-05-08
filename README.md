@@ -3,6 +3,8 @@
 A simple Flask web application that extracts text from images using [Tesseract OCR](https://github.com/tesseract-ocr/tesseract), built without relying on third-party AI APIs. It includes a clean frontend UI, logging, clipboard support, and performance-enhancing preprocessing using Pillow.
 
 ---
+[![Railway Deployment](https://img.shields.io/badge/Railway-Deployed-brightgreen)](https://imagetotextapp-production.up.railway.app/)
+
 
 ## Deployed App
 Try it out: [Live Demo](https://imagetotextapp-production.up.railway.app/)
