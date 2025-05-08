@@ -38,6 +38,7 @@ def index():
 
         try:            
             image = Image.open(path)
+            image.save(path)
 
             # Convert to grayscale first (optional)
             gray_image = image.convert("L")
