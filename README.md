@@ -28,7 +28,7 @@ Try it out: [Live Demo](https://imagetotextapp-production.up.railway.app/)
 
 image-to-text-app/
 │
-├── app.py                  # Main Flask application
+├── main.py                  # Main Flask application
 ├── requirements.txt        # Python dependencies
 ├── logs/
 │   └── access.log          # Tracks IPs for usage count
