@@ -1,2 +1,8 @@
+[phases.setup]
+aptPkgs = ["tesseract-ocr", "libtesseract-dev", "libleptonica-dev"]
+
+[phases.build]
+cmds = ["pip install -r requirements.txt"]
+
 [start]
 cmd = "gunicorn main:app"
